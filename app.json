@@ -1,0 +1,17 @@
+{
+  "name": "manager",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/ladyga14/manager"
+    }
+  ]
+}
